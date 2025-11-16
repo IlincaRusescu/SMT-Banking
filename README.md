@@ -1,4 +1,4 @@
-SMT Banking
+SMT Banking - 
 A Java & JavaFX Banking Management System
 
 
