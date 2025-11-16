@@ -57,5 +57,5 @@ The project includes a full JavaDoc documentation covering:
 3. Make sure JavaFX SDK is configured
 4. Run Main.java
 
-**Author: **
+**Author:**
 Ilinca Rusescu
