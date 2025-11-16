@@ -4,7 +4,8 @@ A Java & JavaFX Banking Management System
 
 SMT Banking is a complete banking management application developed in Java, using Object-Oriented Programming principles, persistent data using text files, a graphical interface created with JavaFX, and in-memory data processing during runtime.
 
-//Features:
+
+**Features:**
 - Manage customers
 - Manage bank accounts (Debit, Savings, Credit)
 - Perform transactions (internal & external transfers)
@@ -13,7 +14,8 @@ SMT Banking is a complete banking management application developed in Java, usin
 - View a dashboard with charts of monthly cashflow
 - Navigate through a modern JavaFX UI with dynamic components
 
-//Technologies Used:
+
+**Technologies Used:**
 - Java 17
 - JavaFXOOP
 - (Object-Oriented Programming)
@@ -23,14 +25,14 @@ SMT Banking is a complete banking management application developed in Java, usin
 - JavaFX Charts & Layouts
 
 
-//JavaFX Interface:
+**JavaFX Interface:**
 - Modern dashboard layout (HBox + VBox)
 - Dynamic UI panels loaded using custom show...() methods
 - Live chart of current month cashflow
 - Left-side navigation menu + right-side content swapping
 
 
-//Data Persistence:
+**Data Persistence:**
 All data is stored in:
 - customers.txt
 - accounts.txt
@@ -40,7 +42,7 @@ On application startup → files are read into memory
 On exit → data is automatically saved back to files
 
 
-//JavaDoc:
+**JavaDoc:**
 The project includes a full JavaDoc documentation covering:
 - All classes
 - Public methods
@@ -49,11 +51,11 @@ The project includes a full JavaDoc documentation covering:
 - Data flow
 
 
-//HOW TO RUN
+**HOW TO RUN**
 1. Clone the repository
 2. Open in IntelliJ IDEA
 3. Make sure JavaFX SDK is configured
 4. Run Main.java
 
-//Author
+**Author: **
 Ilinca Rusescu
