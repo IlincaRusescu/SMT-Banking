@@ -1,0 +1,3 @@
+# customerId|firstName|lastName|age|gender|email|phone|cnp|addressLine1|addressLine2|city|postalCode|country
+C001|Ilinca|Rusescu|25|Female|i.rusescu@yahoo.ro|0734191692|6000709450030|Popa Nan 21||Bucharest|024075|RO
+C002|Diana|Rotariu|26|Female|dianarotariu33@gmail.com|0723009934|2999338410023|Camil Ressu 39|bl. Z5, sc. 4, ap. 49|Bucharest|03172|RO

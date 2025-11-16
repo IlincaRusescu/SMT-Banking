@@ -1,0 +1,16 @@
+# customerId|accountId|timestamp|type|amount|description
+C001|A001|2025-11-15T11:14:58.254893900|DEPOSIT|10000.0|Money deposited successfully. / Debit Account
+C001|A001|2025-11-15T11:15:24.224366300|WITHDRAW|-2000.0|Transferred to EUR debit account.
+C001|A003|2025-11-15T11:15:24.224366300|DEPOSIT|400.0|Received from RON debit account.
+C001|A001|2025-11-15T11:16:11.206479300|TRANSFER_SENT|-3000.0|To: Diana Rotariu / gift
+C002|A002|2025-11-15T11:16:11.206479300|TRANSFER_RECEIVED|3000.0|From: Ilinca Rusescu / gift
+C001|A001|2025-11-15T11:16:34.509330700|WITHDRAW|-1000.0|Money transferred to Savings Account / Debit Account
+C001|A004|2025-11-15T11:16:34.509330700|DEPOSIT|1000.0|Money deposited from Debit Account / Savings Account
+C001|A004|2025-11-15T11:16:44.284361600|INTEREST_APPLIED|20.0|Monthly savings interest applied.
+C001|A004|2025-11-15T11:16:47.362976200|INTEREST_APPLIED|20.40000000000009|Monthly savings interest applied.
+C001|A001|2025-11-15T11:16:51.692341|DEPOSIT|500.0|Deposit from Savings account / Debit Account
+C001|A004|2025-11-15T11:16:51.692341|WITHDRAW|-500.0|Withdrawn from Savings to Debit / Savings Account
+C001|A001|2025-11-15T11:16:59.869582800|CREDIT_INCOMING|5000.0|Funds received from Credit / Debit Account
+C001|A005|2025-11-15T11:16:59.869582800|CREDIT_TAKEN|-5000.0|New Credit taken / Credit Account
+C001|A001|2025-11-15T11:17:14.801720|CREDIT_REPAY|-5000.0|Credit Repayment / Debit Account
+C001|A005|2025-11-15T11:17:14.801720|DEPOSIT|5000.0|Money deposited / Credit Account

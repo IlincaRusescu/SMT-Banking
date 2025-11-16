@@ -1,0 +1,3 @@
+# username|passwordHash|customerId|role
+ilinca|88e8b455520ca6c871db34730a08f0535528b5eb95cd87c5ae7596592bdd0bdb|C001|user
+diana|b14d6c70dd6aec6816dc9a665f03c4ef957c401fa97123948bd052816d018177|C002|user
